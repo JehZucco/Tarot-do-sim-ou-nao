@@ -1,4 +1,4 @@
-<h1 align="center"> Tarot do Sim ou Não </h1>
+<h1> Tarot do Sim ou Não </h1>
 
 
-![lua crescente com cristais em um fundo rosa claro escrito embaixo Tarot do sim ou não](https://www.canva.com/design/DAFaMDKcxJE/LyJO70SVQfrDNbDm5rXhJg/view?utm_content=DAFaMDKcxJE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![Imagem de uma lua crescente marrom claro em um fundo cor de areia, acima escrito de Tarot do sim ou não](https://user-images.githubusercontent.com/116315311/218146454-ed228d1e-93da-44e1-b64c-380f5276083f.png)
