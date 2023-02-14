@@ -85,3 +85,7 @@ O Tarot De Marselha possui 78 cartas, das quais 22 são arcanos maiores e 56 sã
 </table>
 
 Sim, a probabilidade da resposta para a sua pergunta ser sim é de aproximadamente 68%, mas eu não faço as regras, apenas deixo esse dado para reflexão.
+
+<h1> Referências de espaços onde aprendi muito </h1>
+
+https://willianjusten.com.br/criando-um-background-com-gradient-animado 
