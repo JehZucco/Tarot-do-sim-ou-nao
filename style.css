@@ -1,10 +1,8 @@
 .gradiente {
     display: flex;
-    align-items: center;
-    justify-content: center;
     height: 100vh;
     width: 100vw;
-    background: linear-gradient(45deg,#084177, #687466, #cd8d7b, #fbc490);
+    background: linear-gradient(45deg, #EAC7C7, #A0C3D2, #F7F5EB, #EAE0DA);
     background-size: 300% 300%;
     animation: colors 15s ease infinite;
 }
@@ -22,3 +20,39 @@
         background-position: 0% 50%;
     }
 }
+
+div.cabecalho {
+    display: inline-block;
+    margin: 1% auto;
+    text-align: center;
+}
+
+
+.pCabecalho {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+.botao01 {
+    background: #0081C9;
+    border: 1px solid #0081C9;
+    border-radius: 10px;
+    box-shadow: 0 3px 0#2C74B3;
+    color: #FFF;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 10px 20px;
+    position: relative;
+    margin: 1cm;
+    cursor: pointer;
+    
+}
+.botao01:hover{
+    background: #2C74B3;
+    transform: scale(1.2);
+}
+
+
